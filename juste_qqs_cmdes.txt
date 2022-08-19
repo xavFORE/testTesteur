@@ -1,0 +1,80 @@
+
+59013-30-05@STA7400530 MINGW64 ~
+$ dir
+%USERPROFILE%.pyenv  Cookies                Links            Music                                                                                         OneDrive      SendTo                   ntuser.dat.LOG1
+3D\ Objects          Documents              Local\ Settings  NTUSER.DAT                                                                                    Pictures      Videos                   ntuser.dat.LOG2
+AppData              Downloads              Menu\ Démarrer   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                       Recent        Voisinage\ d'impression  ntuser.ini
+Application\ Data    Favorites              Mes\ documents   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms  Saved\ Games  Voisinage\ réseau
+Contacts             IntelGraphicsProfiles  Modèles          NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms  Searches      my_env
+
+59013-30-05@STA7400530 MINGW64 ~
+$ pwd
+/c/Users/59013-30-05
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd..
+bash: cd..: command not found
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd ..
+
+59013-30-05@STA7400530 MINGW64 /c/Users
+$ cd ..
+
+59013-30-05@STA7400530 MINGW64 /c
+$ pwd
+/c
+
+59013-30-05@STA7400530 MINGW64 /c
+$ cd ..
+
+59013-30-05@STA7400530 MINGW64 /
+$ dir .
+LICENSE.txt  ReleaseNotes.html  bin  cmd  dev  etc  git-bash.exe  git-cmd.exe  mingw64  proc  tmp  unins000.dat  unins000.exe  unins000.msg  usr
+
+59013-30-05@STA7400530 MINGW64 /
+$ pwd
+/
+
+59013-30-05@STA7400530 MINGW64 /
+$ dri
+bash: dri: command not found
+
+59013-30-05@STA7400530 MINGW64 /
+$ dir
+LICENSE.txt  ReleaseNotes.html  bin  cmd  dev  etc  git-bash.exe  git-cmd.exe  mingw64  proc  tmp  unins000.dat  unins000.exe  unins000.msg  usr
+
+59013-30-05@STA7400530 MINGW64 /
+$ ^C
+
+
+59013-30-05@STA7400530 MINGW64 /
+$ ^C
+
+59013-30-05@STA7400530 MINGW64 /
+$
+
+59013-30-05@STA7400530 MINGW64 /
+$ cd
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd C:\Users\59013-30-05\OneDrive\TravailPythonAFPA\Xavier
+bash: cd: C:Users59013-30-05OneDriveTravailPythonAFPAXavier: No such file or directory
+
+59013-30-05@STA7400530 MINGW64 ~
+$ pwd
+/c/Users/59013-30-05
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd C:\Users\59013-30-05\OneDrive\TravailPythonAFPA
+bash: cd: C:Users59013-30-05OneDriveTravailPythonAFPA: No such file or directory
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd C:\Users\59013-30-05\OneDrive
+bash: cd: C:Users59013-30-05OneDrive: No such file or directory
+
+59013-30-05@STA7400530 MINGW64 ~
+$ cd C:\Users\59013-30-05\OneDrive
