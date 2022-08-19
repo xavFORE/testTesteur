@@ -6,3 +6,5 @@ kamel toujours coincé
 aider kamel a pousser
 je suis algerien 
 j'ai un enfant 
+
+Barry t'es un enfoiré'
